@@ -1,0 +1,522 @@
+2025-02-22 00:03:56,042 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s20ms).
+
+2025-02-22 00:05:53,673 INFO [capacityManagement] start correct usage
+
+2025-02-22 00:05:53,675 INFO [capacityManagement] end correct usage, cost: 0.00156s
+
+2025-02-22 00:05:54,733 WARN clearHistoryConfig get scheduled
+
+2025-02-22 00:05:54,733 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 00:05:54,734 WARN clearConfigHistory, getBeforeStamp:2025-01-23 00:05:54.0, pageSize:1000
+
+2025-02-22 00:05:54,735 WARN history config cleaner successfully
+
+2025-02-22 00:15:53,664 INFO [capacityManagement] start correct usage
+
+2025-02-22 00:15:53,667 INFO [capacityManagement] end correct usage, cost: 0.001846084s
+
+2025-02-22 00:15:54,725 WARN clearHistoryConfig get scheduled
+
+2025-02-22 00:15:54,725 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 00:15:54,725 WARN clearConfigHistory, getBeforeStamp:2025-01-23 00:15:54.0, pageSize:1000
+
+2025-02-22 00:15:54,729 WARN history config cleaner successfully
+
+2025-02-22 00:25:53,677 INFO [capacityManagement] start correct usage
+
+2025-02-22 00:25:53,679 INFO [capacityManagement] end correct usage, cost: 0.001714s
+
+2025-02-22 00:25:54,739 WARN clearHistoryConfig get scheduled
+
+2025-02-22 00:25:54,739 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 00:25:54,740 WARN clearConfigHistory, getBeforeStamp:2025-01-23 00:25:54.0, pageSize:1000
+
+2025-02-22 00:25:54,741 WARN history config cleaner successfully
+
+2025-02-22 00:35:53,689 INFO [capacityManagement] start correct usage
+
+2025-02-22 00:35:53,691 INFO [capacityManagement] end correct usage, cost: 0.001366833s
+
+2025-02-22 00:35:54,752 WARN clearHistoryConfig get scheduled
+
+2025-02-22 00:35:54,752 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 00:35:54,752 WARN clearConfigHistory, getBeforeStamp:2025-01-23 00:35:54.0, pageSize:1000
+
+2025-02-22 00:35:54,754 WARN history config cleaner successfully
+
+2025-02-22 00:45:53,700 INFO [capacityManagement] start correct usage
+
+2025-02-22 00:45:53,701 INFO [capacityManagement] end correct usage, cost: 0.001372583s
+
+2025-02-22 00:45:54,760 WARN clearHistoryConfig get scheduled
+
+2025-02-22 00:45:54,760 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 00:45:54,760 WARN clearConfigHistory, getBeforeStamp:2025-01-23 00:45:54.0, pageSize:1000
+
+2025-02-22 00:45:54,761 WARN history config cleaner successfully
+
+2025-02-22 00:55:53,709 INFO [capacityManagement] start correct usage
+
+2025-02-22 00:55:53,711 INFO [capacityManagement] end correct usage, cost: 0.001827292s
+
+2025-02-22 00:55:54,765 WARN clearHistoryConfig get scheduled
+
+2025-02-22 00:55:54,765 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 00:55:54,766 WARN clearConfigHistory, getBeforeStamp:2025-01-23 00:55:54.0, pageSize:1000
+
+2025-02-22 00:55:54,768 WARN history config cleaner successfully
+
+2025-02-22 01:05:51,698 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s850ms).
+
+2025-02-22 01:06:18,562 INFO [capacityManagement] start correct usage
+
+2025-02-22 01:06:18,564 INFO [capacityManagement] end correct usage, cost: 0.001872792s
+
+2025-02-22 01:15:56,451 WARN clearHistoryConfig get scheduled
+
+2025-02-22 01:15:56,451 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 01:15:56,451 WARN clearConfigHistory, getBeforeStamp:2025-01-23 01:15:56.0, pageSize:1000
+
+2025-02-22 01:15:56,453 WARN history config cleaner successfully
+
+2025-02-22 01:15:58,541 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m6s843ms).
+
+2025-02-22 01:32:01,595 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m33s45ms).
+
+2025-02-22 01:48:26,582 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m54s982ms).
+
+2025-02-22 02:04:50,114 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m53s524ms).
+
+2025-02-22 02:17:15,130 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m55s7ms).
+
+2025-02-22 02:23:11,940 INFO [capacityManagement] start correct usage
+
+2025-02-22 02:23:11,943 INFO [capacityManagement] end correct usage, cost: 0.002082041s
+
+2025-02-22 02:23:12,995 WARN clearHistoryConfig get scheduled
+
+2025-02-22 02:23:12,996 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 02:23:12,996 WARN clearConfigHistory, getBeforeStamp:2025-01-23 02:23:12.0, pageSize:1000
+
+2025-02-22 02:23:12,998 WARN history config cleaner successfully
+
+2025-02-22 02:33:11,950 INFO [capacityManagement] start correct usage
+
+2025-02-22 02:33:11,952 INFO [capacityManagement] end correct usage, cost: 0.0018065s
+
+2025-02-22 02:33:13,005 WARN clearHistoryConfig get scheduled
+
+2025-02-22 02:33:13,005 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 02:33:13,005 WARN clearConfigHistory, getBeforeStamp:2025-01-23 02:33:13.0, pageSize:1000
+
+2025-02-22 02:33:13,007 WARN history config cleaner successfully
+
+2025-02-22 02:43:11,969 INFO [capacityManagement] start correct usage
+
+2025-02-22 02:43:11,971 INFO [capacityManagement] end correct usage, cost: 0.002198125s
+
+2025-02-22 02:43:13,028 WARN clearHistoryConfig get scheduled
+
+2025-02-22 02:43:13,029 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 02:43:13,029 WARN clearConfigHistory, getBeforeStamp:2025-01-23 02:43:13.0, pageSize:1000
+
+2025-02-22 02:43:13,031 WARN history config cleaner successfully
+
+2025-02-22 02:53:11,980 INFO [capacityManagement] start correct usage
+
+2025-02-22 02:53:11,982 INFO [capacityManagement] end correct usage, cost: 0.001974292s
+
+2025-02-22 02:53:13,040 WARN clearHistoryConfig get scheduled
+
+2025-02-22 02:53:13,040 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 02:53:13,040 WARN clearConfigHistory, getBeforeStamp:2025-01-23 02:53:13.0, pageSize:1000
+
+2025-02-22 02:53:13,042 WARN history config cleaner successfully
+
+2025-02-22 03:03:11,995 INFO [capacityManagement] start correct usage
+
+2025-02-22 03:03:11,997 INFO [capacityManagement] end correct usage, cost: 0.001833417s
+
+2025-02-22 03:03:13,048 WARN clearHistoryConfig get scheduled
+
+2025-02-22 03:03:13,048 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 03:03:13,048 WARN clearConfigHistory, getBeforeStamp:2025-01-23 03:03:13.0, pageSize:1000
+
+2025-02-22 03:03:13,050 WARN history config cleaner successfully
+
+2025-02-22 03:13:11,990 INFO [capacityManagement] start correct usage
+
+2025-02-22 03:13:11,992 INFO [capacityManagement] end correct usage, cost: 0.001912583s
+
+2025-02-22 03:13:13,036 WARN clearHistoryConfig get scheduled
+
+2025-02-22 03:13:13,036 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 03:13:13,036 WARN clearConfigHistory, getBeforeStamp:2025-01-23 03:13:13.0, pageSize:1000
+
+2025-02-22 03:13:13,038 WARN history config cleaner successfully
+
+2025-02-22 03:23:11,992 INFO [capacityManagement] start correct usage
+
+2025-02-22 03:23:11,995 INFO [capacityManagement] end correct usage, cost: 0.002028s
+
+2025-02-22 03:23:13,037 WARN clearHistoryConfig get scheduled
+
+2025-02-22 03:23:13,037 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 03:23:13,038 WARN clearConfigHistory, getBeforeStamp:2025-01-23 03:23:13.0, pageSize:1000
+
+2025-02-22 03:23:13,042 WARN history config cleaner successfully
+
+2025-02-22 03:33:12,007 INFO [capacityManagement] start correct usage
+
+2025-02-22 03:33:12,009 INFO [capacityManagement] end correct usage, cost: 0.00129075s
+
+2025-02-22 03:33:13,056 WARN clearHistoryConfig get scheduled
+
+2025-02-22 03:33:13,056 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 03:33:13,056 WARN clearConfigHistory, getBeforeStamp:2025-01-23 03:33:13.0, pageSize:1000
+
+2025-02-22 03:33:13,057 WARN history config cleaner successfully
+
+2025-02-22 03:43:11,998 INFO [capacityManagement] start correct usage
+
+2025-02-22 03:43:12,000 INFO [capacityManagement] end correct usage, cost: 0.00198975s
+
+2025-02-22 03:43:13,043 WARN clearHistoryConfig get scheduled
+
+2025-02-22 03:43:13,043 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 03:43:13,043 WARN clearConfigHistory, getBeforeStamp:2025-01-23 03:43:13.0, pageSize:1000
+
+2025-02-22 03:43:13,045 WARN history config cleaner successfully
+
+2025-02-22 03:53:12,005 INFO [capacityManagement] start correct usage
+
+2025-02-22 03:53:12,007 INFO [capacityManagement] end correct usage, cost: 0.0017585s
+
+2025-02-22 03:53:13,044 WARN clearHistoryConfig get scheduled
+
+2025-02-22 03:53:13,045 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 03:53:13,045 WARN clearConfigHistory, getBeforeStamp:2025-01-23 03:53:13.0, pageSize:1000
+
+2025-02-22 03:53:13,046 WARN history config cleaner successfully
+
+2025-02-22 04:03:12,014 INFO [capacityManagement] start correct usage
+
+2025-02-22 04:03:12,016 INFO [capacityManagement] end correct usage, cost: 0.001890292s
+
+2025-02-22 04:03:13,050 WARN clearHistoryConfig get scheduled
+
+2025-02-22 04:03:13,051 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 04:03:13,051 WARN clearConfigHistory, getBeforeStamp:2025-01-23 04:03:13.0, pageSize:1000
+
+2025-02-22 04:03:13,052 WARN history config cleaner successfully
+
+2025-02-22 04:13:12,022 INFO [capacityManagement] start correct usage
+
+2025-02-22 04:13:12,024 INFO [capacityManagement] end correct usage, cost: 0.001906625s
+
+2025-02-22 04:13:13,057 WARN clearHistoryConfig get scheduled
+
+2025-02-22 04:13:13,057 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 04:13:13,057 WARN clearConfigHistory, getBeforeStamp:2025-01-23 04:13:13.0, pageSize:1000
+
+2025-02-22 04:13:13,059 WARN history config cleaner successfully
+
+2025-02-22 04:38:37,028 INFO [capacityManagement] start correct usage
+
+2025-02-22 04:38:37,031 INFO [capacityManagement] end correct usage, cost: 0.001773334s
+
+2025-02-22 04:38:38,064 WARN clearHistoryConfig get scheduled
+
+2025-02-22 04:38:38,065 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 04:38:38,065 WARN clearConfigHistory, getBeforeStamp:2025-01-23 04:38:38.0, pageSize:1000
+
+2025-02-22 04:38:38,067 WARN history config cleaner successfully
+
+2025-02-22 04:38:41,967 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s12ms).
+
+2025-02-22 04:54:41,623 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s637ms).
+
+2025-02-22 05:13:36,657 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s).
+
+2025-02-22 05:18:15,873 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m39s205ms).
+
+2025-02-22 05:34:10,878 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s5ms).
+
+2025-02-22 05:50:35,912 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s24ms).
+
+2025-02-22 06:07:00,945 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s16ms).
+
+2025-02-22 06:19:22,197 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m51s242ms).
+
+2025-02-22 06:35:12,128 INFO [capacityManagement] start correct usage
+
+2025-02-22 06:35:12,130 INFO [capacityManagement] end correct usage, cost: 0.001707084s
+
+2025-02-22 06:35:13,155 WARN clearHistoryConfig get scheduled
+
+2025-02-22 06:35:13,156 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 06:35:13,156 WARN clearConfigHistory, getBeforeStamp:2025-01-23 06:35:13.0, pageSize:1000
+
+2025-02-22 06:35:13,157 WARN history config cleaner successfully
+
+2025-02-22 06:35:17,224 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s27ms).
+
+2025-02-22 06:51:20,296 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m33s62ms).
+
+2025-02-22 07:07:15,347 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s51ms).
+
+2025-02-22 07:20:12,422 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m27s72ms).
+
+2025-02-22 07:36:12,635 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m30s204ms).
+
+2025-02-22 07:51:26,434 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m13s799ms).
+
+2025-02-22 07:57:21,276 INFO [capacityManagement] start correct usage
+
+2025-02-22 07:57:21,279 INFO [capacityManagement] end correct usage, cost: 0.001233458s
+
+2025-02-22 07:57:22,296 WARN clearHistoryConfig get scheduled
+
+2025-02-22 07:57:22,296 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 07:57:22,296 WARN clearConfigHistory, getBeforeStamp:2025-01-23 07:57:22.0, pageSize:1000
+
+2025-02-22 07:57:22,298 WARN history config cleaner successfully
+
+2025-02-22 08:07:21,305 INFO [capacityManagement] start correct usage
+
+2025-02-22 08:07:21,308 INFO [capacityManagement] end correct usage, cost: 0.001935375s
+
+2025-02-22 08:07:22,319 WARN clearHistoryConfig get scheduled
+
+2025-02-22 08:07:22,319 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 08:07:22,320 WARN clearConfigHistory, getBeforeStamp:2025-01-23 08:07:22.0, pageSize:1000
+
+2025-02-22 08:07:22,321 WARN history config cleaner successfully
+
+2025-02-22 08:17:21,319 INFO [capacityManagement] start correct usage
+
+2025-02-22 08:17:21,321 INFO [capacityManagement] end correct usage, cost: 0.001399916s
+
+2025-02-22 08:17:22,332 WARN clearHistoryConfig get scheduled
+
+2025-02-22 08:17:22,332 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 08:17:22,333 WARN clearConfigHistory, getBeforeStamp:2025-01-23 08:17:22.0, pageSize:1000
+
+2025-02-22 08:17:22,334 WARN history config cleaner successfully
+
+2025-02-22 08:27:21,332 INFO [capacityManagement] start correct usage
+
+2025-02-22 08:27:21,335 INFO [capacityManagement] end correct usage, cost: 0.001945125s
+
+2025-02-22 08:27:22,336 WARN clearHistoryConfig get scheduled
+
+2025-02-22 08:27:22,336 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 08:27:22,336 WARN clearConfigHistory, getBeforeStamp:2025-01-23 08:27:22.0, pageSize:1000
+
+2025-02-22 08:27:22,338 WARN history config cleaner successfully
+
+2025-02-22 08:37:21,292 INFO [capacityManagement] start correct usage
+
+2025-02-22 08:37:21,295 INFO [capacityManagement] end correct usage, cost: 0.001900166s
+
+2025-02-22 08:37:22,291 WARN clearHistoryConfig get scheduled
+
+2025-02-22 08:37:22,291 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 08:37:22,292 WARN clearConfigHistory, getBeforeStamp:2025-01-23 08:37:22.0, pageSize:1000
+
+2025-02-22 08:37:22,293 WARN history config cleaner successfully
+
+2025-02-22 08:47:21,296 INFO [capacityManagement] start correct usage
+
+2025-02-22 08:47:21,299 INFO [capacityManagement] end correct usage, cost: 0.0018145s
+
+2025-02-22 08:47:22,295 WARN clearHistoryConfig get scheduled
+
+2025-02-22 08:47:22,295 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 08:47:22,295 WARN clearConfigHistory, getBeforeStamp:2025-01-23 08:47:22.0, pageSize:1000
+
+2025-02-22 08:47:22,297 WARN history config cleaner successfully
+
+2025-02-22 09:07:52,240 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m54s970ms).
+
+2025-02-22 09:12:46,264 INFO [capacityManagement] start correct usage
+
+2025-02-22 09:12:46,267 INFO [capacityManagement] end correct usage, cost: 0.001828667s
+
+2025-02-22 09:12:47,262 WARN clearHistoryConfig get scheduled
+
+2025-02-22 09:12:47,262 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 09:12:47,262 WARN clearConfigHistory, getBeforeStamp:2025-01-23 09:12:47.0, pageSize:1000
+
+2025-02-22 09:12:47,264 WARN history config cleaner successfully
+
+2025-02-22 09:22:46,327 INFO [capacityManagement] start correct usage
+
+2025-02-22 09:22:46,330 INFO [capacityManagement] end correct usage, cost: 0.001312s
+
+2025-02-22 09:22:47,319 WARN clearHistoryConfig get scheduled
+
+2025-02-22 09:22:47,319 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 09:22:47,319 WARN clearConfigHistory, getBeforeStamp:2025-01-23 09:22:47.0, pageSize:1000
+
+2025-02-22 09:22:47,320 WARN history config cleaner successfully
+
+2025-02-22 09:32:46,337 INFO [capacityManagement] start correct usage
+
+2025-02-22 09:32:46,340 INFO [capacityManagement] end correct usage, cost: 0.00128425s
+
+2025-02-22 09:32:47,325 WARN clearHistoryConfig get scheduled
+
+2025-02-22 09:32:47,325 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 09:32:47,325 WARN clearConfigHistory, getBeforeStamp:2025-01-23 09:32:47.0, pageSize:1000
+
+2025-02-22 09:32:47,327 WARN history config cleaner successfully
+
+2025-02-22 09:42:46,350 INFO [capacityManagement] start correct usage
+
+2025-02-22 09:42:46,353 INFO [capacityManagement] end correct usage, cost: 0.001236041s
+
+2025-02-22 09:42:47,334 WARN clearHistoryConfig get scheduled
+
+2025-02-22 09:42:47,334 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 09:42:47,334 WARN clearConfigHistory, getBeforeStamp:2025-01-23 09:42:47.0, pageSize:1000
+
+2025-02-22 09:42:47,335 WARN history config cleaner successfully
+
+2025-02-22 09:52:46,361 INFO [capacityManagement] start correct usage
+
+2025-02-22 09:52:46,365 INFO [capacityManagement] end correct usage, cost: 0.002169083s
+
+2025-02-22 09:52:47,346 WARN clearHistoryConfig get scheduled
+
+2025-02-22 09:52:47,346 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 09:52:47,346 WARN clearConfigHistory, getBeforeStamp:2025-01-23 09:52:47.0, pageSize:1000
+
+2025-02-22 09:52:47,348 WARN history config cleaner successfully
+
+2025-02-22 10:02:46,375 INFO [capacityManagement] start correct usage
+
+2025-02-22 10:02:46,377 INFO [capacityManagement] end correct usage, cost: 0.001418041s
+
+2025-02-22 10:02:47,359 WARN clearHistoryConfig get scheduled
+
+2025-02-22 10:02:47,359 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 10:02:47,359 WARN clearConfigHistory, getBeforeStamp:2025-01-23 10:02:47.0, pageSize:1000
+
+2025-02-22 10:02:47,360 WARN history config cleaner successfully
+
+2025-02-22 10:10:17,994 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s860ms).
+
+2025-02-22 10:13:51,029 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m3s29ms).
+
+2025-02-22 10:15:44,275 INFO [capacityManagement] start correct usage
+
+2025-02-22 10:15:44,278 INFO [capacityManagement] end correct usage, cost: 0.001941333s
+
+2025-02-22 10:15:45,250 WARN clearHistoryConfig get scheduled
+
+2025-02-22 10:15:45,251 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 10:15:45,251 WARN clearConfigHistory, getBeforeStamp:2025-01-23 10:15:45.0, pageSize:1000
+
+2025-02-22 10:15:45,253 WARN history config cleaner successfully
+
+2025-02-22 10:25:44,281 INFO [capacityManagement] start correct usage
+
+2025-02-22 10:25:44,284 INFO [capacityManagement] end correct usage, cost: 0.001632833s
+
+2025-02-22 10:25:45,260 WARN clearHistoryConfig get scheduled
+
+2025-02-22 10:25:45,260 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 10:25:45,260 WARN clearConfigHistory, getBeforeStamp:2025-01-23 10:25:45.0, pageSize:1000
+
+2025-02-22 10:25:45,262 WARN history config cleaner successfully
+
+2025-02-22 10:35:44,289 INFO [capacityManagement] start correct usage
+
+2025-02-22 10:35:44,292 INFO [capacityManagement] end correct usage, cost: 0.001841125s
+
+2025-02-22 10:35:45,268 WARN clearHistoryConfig get scheduled
+
+2025-02-22 10:35:45,268 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 10:35:45,269 WARN clearConfigHistory, getBeforeStamp:2025-01-23 10:35:45.0, pageSize:1000
+
+2025-02-22 10:35:45,271 WARN history config cleaner successfully
+
+2025-02-22 10:45:44,296 INFO [capacityManagement] start correct usage
+
+2025-02-22 10:45:44,300 INFO [capacityManagement] end correct usage, cost: 0.0029225s
+
+2025-02-22 10:45:45,274 WARN clearHistoryConfig get scheduled
+
+2025-02-22 10:45:45,274 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-22 10:45:45,274 WARN clearConfigHistory, getBeforeStamp:2025-01-23 10:45:45.0, pageSize:1000
+
+2025-02-22 10:45:45,275 WARN history config cleaner successfully
+
+2025-02-22 10:45:55,975 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@27835a8e (Communications link failure
+
+The last packet successfully received from the server was 6,454 milliseconds ago. The last packet sent successfully to the server was 6,454 milliseconds ago.). Possibly consider using a shorter maxLifetime value.
+
+2025-02-22 10:45:55,976 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@78c80969 (Communications link failure
+
+The last packet successfully received from the server was 14,992 milliseconds ago. The last packet sent successfully to the server was 14,992 milliseconds ago.). Possibly consider using a shorter maxLifetime value.
+
+2025-02-22 10:46:03,463 INFO [HttpClientBeanHolder] Start destroying common HttpClient
+
+2025-02-22 10:46:03,464 INFO [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2025-02-22 10:46:03,463 INFO [NotifyCenter] Start destroying Publisher
+
+2025-02-22 10:46:03,464 INFO [NotifyCenter] Completed destruction of Publisher
+
+2025-02-22 10:46:03,463 WARN [WatchFileCenter] start close
+
+2025-02-22 10:46:03,463 INFO [ThreadPoolManager] Start destroying ThreadPool
+
+2025-02-22 10:46:03,465 WARN [WatchFileCenter] start to shutdown this watcher which is watch : /Users/wangwanli/nacos/conf
+
+2025-02-22 10:46:03,465 INFO [HttpClientBeanHolder] Completed destruction of HttpClient
+
+2025-02-22 10:46:03,465 INFO [ConfigServer-HttpClientManager] Completed destruction of NacosRestTemplate
+
+2025-02-22 10:46:03,466 WARN [WatchFileCenter] already closed
+
+2025-02-22 10:46:05,332 INFO [ThreadPoolManager] Completed destruction of ThreadPool
+

@@ -1,0 +1,21 @@
+[
+  {
+    "resource": "lock",
+    "grade": 1,
+    "count": 20,
+    "limitApp": "default",
+    "strategy": 0,
+    "controlBehavior": 0,
+    "warmUpPeriodSec": 10,
+    "maxQueueingTimeMs": 500
+  },{
+    "resource": "lock2",
+    "grade": 1,
+    "count": 33,
+    "limitApp": "default",
+    "strategy": 0,
+    "controlBehavior": 0,
+    "warmUpPeriodSec": 10,
+    "maxQueueingTimeMs": 500
+  }
+]

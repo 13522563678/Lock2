@@ -1,0 +1,242 @@
+2025-02-26 10:14:14,231 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.CmdbSelectorContextBuilder) contextType(CMDB) successfully.
+
+2025-02-26 10:14:14,231 INFO [SelectorManager] Load SelectorContextBuilder(class com.alibaba.nacos.naming.selector.context.NoneSelectorContextBuilder) contextType(NONE) successfully.
+
+2025-02-26 10:14:14,232 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.LabelSelector) type(label) contextType(CMDB) successfully.
+
+2025-02-26 10:14:14,232 INFO [SelectorManager] Load Selector(class com.alibaba.nacos.naming.selector.NoneSelector) type(none) contextType(NONE) successfully.
+
+2025-02-26 10:14:14,466 INFO Load instance extension handler []
+
+2025-02-26 10:16:06,254 INFO Client connection 1740536166251_127.0.0.1_49783 connect
+
+2025-02-26 10:16:06,264 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=0}, 1740536166251_127.0.0.1_49783
+
+2025-02-26 10:19:36,470 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=1}, 1740536166251_127.0.0.1_49783
+
+2025-02-26 10:19:36,477 INFO Client connection 1740536166251_127.0.0.1_49783 disconnect, remove instances and subscribers
+
+2025-02-26 10:19:36,860 INFO Client connection 1740536165523_127.0.0.1_49777 disconnect, remove instances and subscribers
+
+2025-02-26 10:19:36,861 INFO Client connection 1740536166158_127.0.0.1_49781 disconnect, remove instances and subscribers
+
+2025-02-26 10:19:36,861 INFO Client connection 1740536165691_127.0.0.1_49778 disconnect, remove instances and subscribers
+
+2025-02-26 10:19:36,861 INFO Client connection 1740536165768_127.0.0.1_49779 disconnect, remove instances and subscribers
+
+2025-02-26 10:19:36,861 INFO Client connection 1740536165957_127.0.0.1_49780 disconnect, remove instances and subscribers
+
+2025-02-26 10:19:41,372 INFO Client connection 1740536381370_127.0.0.1_50028 connect
+
+2025-02-26 10:19:41,377 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=2}, 1740536381370_127.0.0.1_50028
+
+2025-02-26 10:41:18,994 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=3}, 1740536381370_127.0.0.1_50028
+
+2025-02-26 10:41:18,998 INFO Client connection 1740536381370_127.0.0.1_50028 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:19,390 INFO Client connection 1740536380790_127.0.0.1_50023 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:19,390 INFO Client connection 1740536380862_127.0.0.1_50024 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:19,390 INFO Client connection 1740536380645_127.0.0.1_50021 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:19,391 INFO Client connection 1740536381043_127.0.0.1_50025 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:19,391 INFO Client connection 1740536459833_127.0.0.1_50122 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:19,391 INFO Client connection 1740536381263_127.0.0.1_50026 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:24,164 INFO Client connection 1740537684162_127.0.0.1_52552 connect
+
+2025-02-26 10:41:24,170 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=4}, 1740537684162_127.0.0.1_52552
+
+2025-02-26 10:41:24,910 INFO Client connection 1740537684245_127.0.0.1_52553 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:24,910 INFO Client connection 1740537684467_127.0.0.1_52555 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:24,911 INFO Client connection 1740537683821_127.0.0.1_52545 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:24,911 INFO Client connection 1740537684041_127.0.0.1_52548 disconnect, remove instances and subscribers
+
+2025-02-26 10:41:24,911 INFO Client connection 1740537683953_127.0.0.1_52547 disconnect, remove instances and subscribers
+
+2025-02-26 10:42:26,252 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=5}, 1740537684162_127.0.0.1_52552
+
+2025-02-26 10:42:26,256 INFO Client connection 1740537684162_127.0.0.1_52552 disconnect, remove instances and subscribers
+
+2025-02-26 10:42:26,641 INFO Client connection 1740537683653_127.0.0.1_52544 disconnect, remove instances and subscribers
+
+2025-02-26 10:42:26,642 INFO Client connection 1740537683438_127.0.0.1_52542 disconnect, remove instances and subscribers
+
+2025-02-26 10:42:26,642 INFO Client connection 1740537684055_127.0.0.1_52549 disconnect, remove instances and subscribers
+
+2025-02-26 10:42:26,642 INFO Client connection 1740537683861_127.0.0.1_52546 disconnect, remove instances and subscribers
+
+2025-02-26 10:42:26,642 INFO Client connection 1740537683566_127.0.0.1_52543 disconnect, remove instances and subscribers
+
+2025-02-26 10:42:30,890 INFO Client connection 1740537750888_127.0.0.1_52664 connect
+
+2025-02-26 10:42:30,895 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=6}, 1740537750888_127.0.0.1_52664
+
+2025-02-26 10:50:42,769 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=7}, 1740537750888_127.0.0.1_52664
+
+2025-02-26 10:50:42,773 INFO Client connection 1740537750888_127.0.0.1_52664 disconnect, remove instances and subscribers
+
+2025-02-26 10:50:43,166 INFO Client connection 1740538050204_127.0.0.1_53048 disconnect, remove instances and subscribers
+
+2025-02-26 10:50:43,166 INFO Client connection 1740537750770_127.0.0.1_52662 disconnect, remove instances and subscribers
+
+2025-02-26 10:50:43,167 INFO Client connection 1740537750372_127.0.0.1_52660 disconnect, remove instances and subscribers
+
+2025-02-26 10:50:43,167 INFO Client connection 1740537750154_127.0.0.1_52658 disconnect, remove instances and subscribers
+
+2025-02-26 10:50:43,167 INFO Client connection 1740537750562_127.0.0.1_52661 disconnect, remove instances and subscribers
+
+2025-02-26 10:50:43,167 INFO Client connection 1740537750300_127.0.0.1_52659 disconnect, remove instances and subscribers
+
+2025-02-26 10:50:47,507 INFO Client connection 1740538247506_127.0.0.1_53390 connect
+
+2025-02-26 10:50:47,511 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=8}, 1740538247506_127.0.0.1_53390
+
+2025-02-26 10:56:39,152 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=9}, 1740538247506_127.0.0.1_53390
+
+2025-02-26 10:56:39,156 INFO Client connection 1740538247506_127.0.0.1_53390 disconnect, remove instances and subscribers
+
+2025-02-26 10:56:39,552 INFO Client connection 1740538247392_127.0.0.1_53388 disconnect, remove instances and subscribers
+
+2025-02-26 10:56:39,552 INFO Client connection 1740538246893_127.0.0.1_53385 disconnect, remove instances and subscribers
+
+2025-02-26 10:56:39,552 INFO Client connection 1740538247177_127.0.0.1_53387 disconnect, remove instances and subscribers
+
+2025-02-26 10:56:39,553 INFO Client connection 1740538246742_127.0.0.1_53384 disconnect, remove instances and subscribers
+
+2025-02-26 10:56:39,553 INFO Client connection 1740538326538_127.0.0.1_53495 disconnect, remove instances and subscribers
+
+2025-02-26 10:56:39,553 INFO Client connection 1740538246967_127.0.0.1_53386 disconnect, remove instances and subscribers
+
+2025-02-26 10:56:39,553 INFO Client connection 1740538518711_127.0.0.1_53806 disconnect, remove instances and subscribers
+
+2025-02-26 10:56:43,826 INFO Client connection 1740538603824_127.0.0.1_54053 connect
+
+2025-02-26 10:56:43,832 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=10}, 1740538603824_127.0.0.1_54053
+
+2025-02-26 11:02:04,853 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=11}, 1740538603824_127.0.0.1_54053
+
+2025-02-26 11:02:04,857 INFO Client connection 1740538603824_127.0.0.1_54053 disconnect, remove instances and subscribers
+
+2025-02-26 11:02:05,245 INFO Client connection 1740538636189_127.0.0.1_54103 disconnect, remove instances and subscribers
+
+2025-02-26 11:02:05,246 INFO Client connection 1740538603332_127.0.0.1_54048 disconnect, remove instances and subscribers
+
+2025-02-26 11:02:05,246 INFO Client connection 1740538603522_127.0.0.1_54049 disconnect, remove instances and subscribers
+
+2025-02-26 11:02:05,246 INFO Client connection 1740538603261_127.0.0.1_54047 disconnect, remove instances and subscribers
+
+2025-02-26 11:02:05,246 INFO Client connection 1740538603720_127.0.0.1_54050 disconnect, remove instances and subscribers
+
+2025-02-26 11:02:05,247 INFO Client connection 1740538603113_127.0.0.1_54046 disconnect, remove instances and subscribers
+
+2025-02-26 11:02:09,588 INFO Client connection 1740538929586_127.0.0.1_54544 connect
+
+2025-02-26 11:02:09,592 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=12}, 1740538929586_127.0.0.1_54544
+
+2025-02-26 11:08:57,032 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=13}, 1740538929586_127.0.0.1_54544
+
+2025-02-26 11:08:57,036 INFO Client connection 1740538929586_127.0.0.1_54544 disconnect, remove instances and subscribers
+
+2025-02-26 11:08:57,430 INFO Client connection 1740538929003_127.0.0.1_54537 disconnect, remove instances and subscribers
+
+2025-02-26 11:08:57,431 INFO Client connection 1740538976513_127.0.0.1_54596 disconnect, remove instances and subscribers
+
+2025-02-26 11:08:57,431 INFO Client connection 1740538929260_127.0.0.1_54540 disconnect, remove instances and subscribers
+
+2025-02-26 11:08:57,431 INFO Client connection 1740538929473_127.0.0.1_54542 disconnect, remove instances and subscribers
+
+2025-02-26 11:08:57,431 INFO Client connection 1740538929077_127.0.0.1_54539 disconnect, remove instances and subscribers
+
+2025-02-26 11:08:57,431 INFO Client connection 1740538928850_127.0.0.1_54536 disconnect, remove instances and subscribers
+
+2025-02-26 11:09:02,249 INFO Client connection 1740539342247_127.0.0.1_55331 connect
+
+2025-02-26 11:09:02,254 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=14}, 1740539342247_127.0.0.1_55331
+
+2025-02-26 11:11:44,594 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=15}, 1740539342247_127.0.0.1_55331
+
+2025-02-26 11:11:44,598 INFO Client connection 1740539342247_127.0.0.1_55331 disconnect, remove instances and subscribers
+
+2025-02-26 11:11:44,978 INFO Client connection 1740539342133_127.0.0.1_55328 disconnect, remove instances and subscribers
+
+2025-02-26 11:11:44,979 INFO Client connection 1740539341928_127.0.0.1_55327 disconnect, remove instances and subscribers
+
+2025-02-26 11:11:44,979 INFO Client connection 1740539341505_127.0.0.1_55322 disconnect, remove instances and subscribers
+
+2025-02-26 11:11:44,979 INFO Client connection 1740539341675_127.0.0.1_55324 disconnect, remove instances and subscribers
+
+2025-02-26 11:11:44,979 INFO Client connection 1740539341751_127.0.0.1_55325 disconnect, remove instances and subscribers
+
+2025-02-26 11:11:49,288 INFO Client connection 1740539509285_127.0.0.1_55563 connect
+
+2025-02-26 11:11:49,297 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=16}, 1740539509285_127.0.0.1_55563
+
+2025-02-26 11:15:42,060 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=17}, 1740539509285_127.0.0.1_55563
+
+2025-02-26 11:15:42,064 INFO Client connection 1740539509285_127.0.0.1_55563 disconnect, remove instances and subscribers
+
+2025-02-26 11:15:42,455 INFO Client connection 1740539508594_127.0.0.1_55557 disconnect, remove instances and subscribers
+
+2025-02-26 11:15:42,455 INFO Client connection 1740539508746_127.0.0.1_55558 disconnect, remove instances and subscribers
+
+2025-02-26 11:15:42,456 INFO Client connection 1740539508817_127.0.0.1_55559 disconnect, remove instances and subscribers
+
+2025-02-26 11:15:42,456 INFO Client connection 1740539509191_127.0.0.1_55561 disconnect, remove instances and subscribers
+
+2025-02-26 11:15:42,456 INFO Client connection 1740539508984_127.0.0.1_55560 disconnect, remove instances and subscribers
+
+2025-02-26 11:15:42,456 INFO Client connection 1740539588718_127.0.0.1_55651 disconnect, remove instances and subscribers
+
+2025-02-26 11:15:46,781 INFO Client connection 1740539746780_127.0.0.1_55907 connect
+
+2025-02-26 11:15:46,786 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=18}, 1740539746780_127.0.0.1_55907
+
+2025-02-26 11:28:11,889 INFO Client remove for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=19}, 1740539746780_127.0.0.1_55907
+
+2025-02-26 11:28:11,894 INFO Client connection 1740539746780_127.0.0.1_55907 disconnect, remove instances and subscribers
+
+2025-02-26 11:28:12,277 INFO Client connection 1740539785779_127.0.0.1_55969 disconnect, remove instances and subscribers
+
+2025-02-26 11:28:12,277 INFO Client connection 1740539746057_127.0.0.1_55901 disconnect, remove instances and subscribers
+
+2025-02-26 11:28:12,277 INFO Client connection 1740539746457_127.0.0.1_55904 disconnect, remove instances and subscribers
+
+2025-02-26 11:28:12,277 INFO Client connection 1740539746674_127.0.0.1_55905 disconnect, remove instances and subscribers
+
+2025-02-26 11:28:12,277 INFO Client connection 1740539746279_127.0.0.1_55903 disconnect, remove instances and subscribers
+
+2025-02-26 11:28:12,278 INFO Client connection 1740539746206_127.0.0.1_55902 disconnect, remove instances and subscribers
+
+2025-02-26 11:28:16,643 INFO Client connection 1740540496641_127.0.0.1_57328 connect
+
+2025-02-26 11:28:16,650 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='Lock2', ephemeral=true, revision=20}, 1740540496641_127.0.0.1_57328
+
+2025-02-26 11:33:58,036 INFO Client connection 1740540496525_127.0.0.1_57326 disconnect, remove instances and subscribers
+
+2025-02-26 11:33:59,842 INFO Client connection 1740540839823_127.0.0.1_58036 disconnect, remove instances and subscribers
+
+2025-02-26 11:43:01,771 INFO [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2025-02-26 11:43:01,773 INFO [NamingServerHttpClientManager] Completed destruction of HTTP-Client
+
+2025-02-26 11:43:01,780 INFO Client connection 1740540496174_127.0.0.1_57324 disconnect, remove instances and subscribers
+
+2025-02-26 11:43:01,780 INFO Client connection 1740540495930_127.0.0.1_57322 disconnect, remove instances and subscribers
+
+2025-02-26 11:43:01,780 INFO Client connection 1740540681750_127.0.0.1_57859 disconnect, remove instances and subscribers
+
+2025-02-26 11:43:01,780 INFO Client connection 1740540839838_127.0.0.1_58037 disconnect, remove instances and subscribers
+
+2025-02-26 11:43:01,780 INFO Client connection 1740540496098_127.0.0.1_57323 disconnect, remove instances and subscribers
+
+2025-02-26 11:43:01,780 INFO Client connection 1740540496313_127.0.0.1_57325 disconnect, remove instances and subscribers
+
+2025-02-26 11:43:01,780 INFO Client connection 1740540496641_127.0.0.1_57328 disconnect, remove instances and subscribers
+

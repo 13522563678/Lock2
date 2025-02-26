@@ -1,0 +1,8 @@
+2025-02-22 10:29:57,809 INFO [dump] add formal task. groupKey=Lock2+DEFAULT_GROUP
+
+2025-02-22 10:29:57,903 INFO [dump] process formal task. groupKey=Lock2+DEFAULT_GROUP
+
+2025-02-22 10:29:57,904 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2+DEFAULT_GROUP, newMd5=270db25b73221dc716b9c28d05fa9944,oldMd5=f508d65277ffc58aebacd4e0339ff8ba
+
+2025-02-22 10:29:57,906 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2+DEFAULT_GROUP, newMd5=270db25b73221dc716b9c28d05fa9944,oldMd5=f508d65277ffc58aebacd4e0339ff8ba,lastModifiedTs=1740191398000
+

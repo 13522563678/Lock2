@@ -1,0 +1,990 @@
+2025-02-25 11:53:49,609 INFO Starting Nacos v2.5.0 using Java 23.0.2 on 192.168.5.5 with PID 51071 (/Users/wangwanli/nacos/target/nacos-server.jar started by wangwanli in /Users/wangwanli)
+
+2025-02-25 11:53:49,609 INFO The following 1 profile is active: "standalone"
+
+2025-02-25 11:53:49,675 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.config.server, filter com.alibaba.nacos.config.server.filter.ConfigEnabledFilter
+
+2025-02-25 11:53:49,675 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.naming, filter com.alibaba.nacos.naming.config.NamingEnabledFilter
+
+2025-02-25 11:53:49,675 INFO Load Nacos package exclude filter success, package prefix com.alibaba.nacos.istio, filter com.alibaba.nacos.istio.config.IstioEnabledFilter
+
+2025-02-25 11:53:49,748 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.config.server.Config to avoid duplicate scan
+
+2025-02-25 11:53:49,794 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.naming.NamingApp to avoid duplicate scan
+
+2025-02-25 11:53:49,799 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.cmdb.CmdbApp to avoid duplicate scan
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,804 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.istio.IstioApp to avoid duplicate scan
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,805 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,806 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,806 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,806 WARN Istio module disabled because set nacos.extension.naming.istio.enabled as false
+
+2025-02-25 11:53:49,929 INFO Skip @SpringBootApplication annotation for class com.alibaba.nacos.prometheus.PrometheusApp to avoid duplicate scan
+
+2025-02-25 11:53:50,656 INFO Tomcat initialized with port(s): 8848 (http)
+
+2025-02-25 11:53:50,751 INFO Starting service [Tomcat]
+
+2025-02-25 11:53:50,751 INFO Starting Servlet engine: [Apache Tomcat/9.0.98]
+
+2025-02-25 11:53:50,797 INFO Initializing Spring embedded WebApplicationContext
+
+2025-02-25 11:53:50,797 INFO Root WebApplicationContext: initialization completed in 1158 ms
+
+2025-02-25 11:53:50,817 INFO Not found ServerIdentityChecker implementation from SPI, use default.
+
+2025-02-25 11:53:50,901 INFO Nacos-related cluster resource initialization
+
+2025-02-25 11:53:50,903 INFO Load com.alibaba.nacos.core.ability.RemoteAbilityInitializer for ServerAbilityInitializer
+
+2025-02-25 11:53:50,903 INFO Load com.alibaba.nacos.naming.ability.NamingAbilityInitializer for ServerAbilityInitializer
+
+2025-02-25 11:53:50,904 INFO The cluster resource is initialized
+
+2025-02-25 11:53:51,014 INFO HikariPool-1 - Starting...
+
+2025-02-25 11:53:51,093 INFO HikariPool-1 - Start completed.
+
+2025-02-25 11:53:51,307 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoBetaMapperByMySql) datasource(mysql) tableName(config_info_beta) successfully.
+
+2025-02-25 11:53:51,307 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoMapperByMySql) datasource(mysql) tableName(config_info) successfully.
+
+2025-02-25 11:53:51,307 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoTagMapperByMySql) datasource(mysql) tableName(config_info_tag) successfully.
+
+2025-02-25 11:53:51,307 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigInfoGrayMapperByMySql) datasource(mysql) tableName(config_info_gray) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.ConfigTagsRelationMapperByMySql) datasource(mysql) tableName(config_tags_relation) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.HistoryConfigInfoMapperByMySql) datasource(mysql) tableName(his_config_info) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantInfoMapperByMySql) datasource(mysql) tableName(tenant_info) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.TenantCapacityMapperByMySql) datasource(mysql) tableName(tenant_capacity) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.mysql.GroupCapacityMapperByMysql) datasource(mysql) tableName(group_capacity) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoBetaMapperByDerby) datasource(derby) tableName(config_info_beta) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoMapperByDerby) datasource(derby) tableName(config_info) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagMapperByDerby) datasource(derby) tableName(config_info_tag) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoGrayMapperByDerby) datasource(derby) tableName(config_info_gray) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.ConfigInfoTagsRelationMapperByDerby) datasource(derby) tableName(config_tags_relation) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.HistoryConfigInfoMapperByDerby) datasource(derby) tableName(his_config_info) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantInfoMapperByDerby) datasource(derby) tableName(tenant_info) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.TenantCapacityMapperByDerby) datasource(derby) tableName(tenant_capacity) successfully.
+
+2025-02-25 11:53:51,308 INFO [MapperManager] Load Mapper(class com.alibaba.nacos.plugin.datasource.impl.derby.GroupCapacityMapperByDerby) datasource(derby) tableName(group_capacity) successfully.
+
+2025-02-25 11:53:51,346 INFO ConfigQueryHandlerChain has been initialized successfully with chain: nacos
+
+2025-02-25 11:53:51,425 INFO [ConfigCacheFactoryDelegate] Matched ConfigCacheFactory not found, Load Default NacosConfigCacheFactory successfully.
+
+2025-02-25 11:53:51,437 INFO [ConfigCachePostProcessorDelegate] Matched ConfigCachePostProcessor not found, load Default NacosConfigCachePostProcessor successfully
+
+2025-02-25 11:53:52,445 INFO Get historyConfigCleaner config from env, activeHistoryConfigCleaner{ activeHistoryConfigCleaner=nacos}
+
+2025-02-25 11:53:52,606 INFO Ready to get current node abilities...
+
+2025-02-25 11:53:52,607 INFO Ready to initialize current node abilities, support modes: [SDK_CLIENT, CLUSTER_CLIENT, SERVER]
+
+2025-02-25 11:53:52,607 INFO Initialize current abilities finish...
+
+2025-02-25 11:53:52,608 INFO Ready to get current node abilities...
+
+2025-02-25 11:53:52,608 INFO Ready to initialize current node abilities, support modes: [SDK_CLIENT]
+
+2025-02-25 11:53:52,608 INFO Initialize current abilities finish...
+
+2025-02-25 11:53:52,608 INFO [AbilityControlManager] Successfully initialize AbilityControlManager
+
+2025-02-25 11:53:54,178 INFO Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@51f18e31, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@60ed12e8, org.springframework.security.web.context.SecurityContextPersistenceFilter@86d6bf7, org.springframework.security.web.header.HeaderWriterFilter@252744a1, org.springframework.security.web.csrf.CsrfFilter@29f38091, org.springframework.security.web.authentication.logout.LogoutFilter@bf75b5c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4ed15347, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6963b88c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@24c8d8be, org.springframework.security.web.session.SessionManagementFilter@4346808, org.springframework.security.web.access.ExceptionTranslationFilter@161dd92a]
+
+2025-02-25 11:53:54,280 INFO Adding welcome page: class path resource [static/index.html]
+
+2025-02-25 11:53:54,392 INFO Exposing 1 endpoint(s) beneath base path '/actuator'
+
+2025-02-25 11:53:54,399 WARN You are asking Spring Security to ignore Ant [pattern='/**']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2025-02-25 11:53:54,399 INFO Will not secure Ant [pattern='/**']
+
+2025-02-25 11:53:54,399 WARN You are asking Spring Security to ignore Mvc [pattern='/prometheus']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2025-02-25 11:53:54,399 INFO Will not secure Mvc [pattern='/prometheus']
+
+2025-02-25 11:53:54,399 WARN You are asking Spring Security to ignore Mvc [pattern='/prometheus/namespaceId/{namespaceId}']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2025-02-25 11:53:54,399 INFO Will not secure Mvc [pattern='/prometheus/namespaceId/{namespaceId}']
+
+2025-02-25 11:53:54,399 WARN You are asking Spring Security to ignore Mvc [pattern='/prometheus/namespaceId/{namespaceId}/service/{service}']. This is not recommended -- please use permitAll via HttpSecurity#authorizeHttpRequests instead.
+
+2025-02-25 11:53:54,399 INFO Will not secure Mvc [pattern='/prometheus/namespaceId/{namespaceId}/service/{service}']
+
+2025-02-25 11:53:54,414 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2025-02-25 11:53:54,419 INFO No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+
+2025-02-25 11:53:54,428 INFO Started Nacos in 5.204 seconds (JVM running for 5.426)
+
+2025-02-25 11:53:54,428 INFO Nacos started successfully in stand alone mode. use external storage
+
+2025-02-25 11:53:55,782 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2025-02-25 11:53:55,782 INFO Initializing Servlet 'dispatcherServlet'
+
+2025-02-25 11:53:55,783 INFO Completed initialization in 1 ms
+
+2025-02-25 11:53:55,794 INFO [AuthPluginManager] Load AuthPluginService(class com.alibaba.nacos.plugin.auth.impl.NacosAuthPluginService) AuthServiceName(nacos) successfully.
+
+2025-02-25 11:53:55,794 INFO [AuthPluginManager] Load AuthPluginService(class com.alibaba.nacos.plugin.auth.impl.LdapAuthPluginService) AuthServiceName(ldap) successfully.
+
+2025-02-25 11:53:55,911 INFO Get ParamCheck config from env, ParamCheckConfig{paramCheckEnabled=trueactiveParamChecker=default}
+
+2025-02-25 11:53:55,916 ERROR CONSOLE /nacos/v1/auth/users/login
+
+org.springframework.security.core.userdetails.UsernameNotFoundException: User nacos not found
+	at com.alibaba.nacos.plugin.auth.impl.users.NacosUserDetailsServiceImpl.loadUserByUsername(NacosUserDetailsServiceImpl.java:81)
+	at com.alibaba.nacos.plugin.auth.impl.authenticate.AbstractAuthenticationManager.authenticate(AbstractAuthenticationManager.java:60)
+	at com.alibaba.nacos.plugin.auth.impl.authenticate.AbstractAuthenticationManager.authenticate(AbstractAuthenticationManager.java:85)
+	at com.alibaba.nacos.plugin.auth.impl.authenticate.AuthenticationManagerDelegator.authenticate(AuthenticationManagerDelegator.java:61)
+	at com.alibaba.nacos.plugin.auth.impl.controller.UserController.login(UserController.java:273)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:903)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:809)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at com.alibaba.nacos.console.filter.XssFilter.doFilterInternal(XssFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at com.alibaba.nacos.core.paramcheck.ParamCheckerFilter.doFilter(ParamCheckerFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at com.alibaba.nacos.core.auth.AuthFilter.doFilter(AuthFilter.java:129)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:218)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:190)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at com.alibaba.nacos.core.context.remote.HttpRequestContextFilter.doFilter(HttpRequestContextFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-25 11:53:56,227 ERROR CONSOLE /nacos/v1/auth/users/login
+
+org.springframework.security.core.userdetails.UsernameNotFoundException: User nacos not found
+	at com.alibaba.nacos.plugin.auth.impl.users.NacosUserDetailsServiceImpl.loadUserByUsername(NacosUserDetailsServiceImpl.java:81)
+	at com.alibaba.nacos.plugin.auth.impl.authenticate.AbstractAuthenticationManager.authenticate(AbstractAuthenticationManager.java:60)
+	at com.alibaba.nacos.plugin.auth.impl.authenticate.AbstractAuthenticationManager.authenticate(AbstractAuthenticationManager.java:85)
+	at com.alibaba.nacos.plugin.auth.impl.authenticate.AuthenticationManagerDelegator.authenticate(AuthenticationManagerDelegator.java:61)
+	at com.alibaba.nacos.plugin.auth.impl.controller.UserController.login(UserController.java:273)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:903)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:809)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1072)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at com.alibaba.nacos.console.filter.XssFilter.doFilterInternal(XssFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at com.alibaba.nacos.core.paramcheck.ParamCheckerFilter.doFilter(ParamCheckerFilter.java:74)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at com.alibaba.nacos.core.auth.AuthFilter.doFilter(AuthFilter.java:129)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:218)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:190)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at com.alibaba.nacos.core.context.remote.HttpRequestContextFilter.doFilter(HttpRequestContextFilter.java:57)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-25 11:54:01,135 INFO [Md5ComparatorDelegate] Matched Md5Comparator not found, load Default NacosMd5Comparator successfully
+
+2025-02-25 11:57:23,644 INFO ConfigQueryRequestExtractor has been initialized successfully with extractor: nacos
+
+2025-02-25 12:03:51,352 INFO [capacityManagement] start correct usage
+
+2025-02-25 12:03:51,379 INFO [capacityManagement] end correct usage, cost: 0.023055s
+
+2025-02-25 12:03:52,450 WARN clearHistoryConfig get scheduled
+
+2025-02-25 12:03:52,450 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 12:03:52,452 WARN clearConfigHistory, getBeforeStamp:2025-01-26 12:03:52.0, pageSize:1000
+
+2025-02-25 12:03:52,479 WARN history config cleaner successfully
+
+2025-02-25 12:13:51,299 INFO [capacityManagement] start correct usage
+
+2025-02-25 12:13:51,304 INFO [capacityManagement] end correct usage, cost: 0.004015792s
+
+2025-02-25 12:13:52,399 WARN clearHistoryConfig get scheduled
+
+2025-02-25 12:13:52,399 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 12:13:52,399 WARN clearConfigHistory, getBeforeStamp:2025-01-26 12:13:52.0, pageSize:1000
+
+2025-02-25 12:13:52,401 WARN history config cleaner successfully
+
+2025-02-25 12:23:51,304 INFO [capacityManagement] start correct usage
+
+2025-02-25 12:23:51,310 INFO [capacityManagement] end correct usage, cost: 0.005880084s
+
+2025-02-25 12:23:52,402 WARN clearHistoryConfig get scheduled
+
+2025-02-25 12:23:52,402 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 12:23:52,403 WARN clearConfigHistory, getBeforeStamp:2025-01-26 12:23:52.0, pageSize:1000
+
+2025-02-25 12:23:52,407 WARN history config cleaner successfully
+
+2025-02-25 12:33:51,307 INFO [capacityManagement] start correct usage
+
+2025-02-25 12:33:51,312 INFO [capacityManagement] end correct usage, cost: 0.004238708s
+
+2025-02-25 12:33:52,406 WARN clearHistoryConfig get scheduled
+
+2025-02-25 12:33:52,406 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 12:33:52,407 WARN clearConfigHistory, getBeforeStamp:2025-01-26 12:33:52.0, pageSize:1000
+
+2025-02-25 12:33:52,408 WARN history config cleaner successfully
+
+2025-02-25 12:41:11,339 INFO Get Push config from env, PushConfig{pushTaskDelay=500, pushTaskTimeout=5000, pushTaskRetryDelay=1000}
+
+2025-02-25 12:43:51,288 INFO [capacityManagement] start correct usage
+
+2025-02-25 12:43:51,291 INFO [capacityManagement] end correct usage, cost: 0.001896166s
+
+2025-02-25 12:43:52,387 WARN clearHistoryConfig get scheduled
+
+2025-02-25 12:43:52,387 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 12:43:52,388 WARN clearConfigHistory, getBeforeStamp:2025-01-26 12:43:52.0, pageSize:1000
+
+2025-02-25 12:43:52,390 WARN history config cleaner successfully
+
+2025-02-25 12:53:51,275 INFO [capacityManagement] start correct usage
+
+2025-02-25 12:53:51,279 INFO [capacityManagement] end correct usage, cost: 0.003269833s
+
+2025-02-25 12:53:52,374 WARN clearHistoryConfig get scheduled
+
+2025-02-25 12:53:52,374 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 12:53:52,375 WARN clearConfigHistory, getBeforeStamp:2025-01-26 12:53:52.0, pageSize:1000
+
+2025-02-25 12:53:52,381 WARN history config cleaner successfully
+
+2025-02-25 13:03:51,277 INFO [capacityManagement] start correct usage
+
+2025-02-25 13:03:51,279 INFO [capacityManagement] end correct usage, cost: 0.001410792s
+
+2025-02-25 13:03:52,379 WARN clearHistoryConfig get scheduled
+
+2025-02-25 13:03:52,379 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 13:03:52,379 WARN clearConfigHistory, getBeforeStamp:2025-01-26 13:03:52.0, pageSize:1000
+
+2025-02-25 13:03:52,381 WARN history config cleaner successfully
+
+2025-02-25 13:13:51,277 INFO [capacityManagement] start correct usage
+
+2025-02-25 13:13:51,280 INFO [capacityManagement] end correct usage, cost: 0.002215083s
+
+2025-02-25 13:13:52,379 WARN clearHistoryConfig get scheduled
+
+2025-02-25 13:13:52,379 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 13:13:52,380 WARN clearConfigHistory, getBeforeStamp:2025-01-26 13:13:52.0, pageSize:1000
+
+2025-02-25 13:13:52,382 WARN history config cleaner successfully
+
+2025-02-25 13:23:51,276 INFO [capacityManagement] start correct usage
+
+2025-02-25 13:23:51,281 INFO [capacityManagement] end correct usage, cost: 0.003399292s
+
+2025-02-25 13:23:52,385 WARN clearHistoryConfig get scheduled
+
+2025-02-25 13:23:52,385 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 13:23:52,385 WARN clearConfigHistory, getBeforeStamp:2025-01-26 13:23:52.0, pageSize:1000
+
+2025-02-25 13:23:52,388 WARN history config cleaner successfully
+
+2025-02-25 13:33:52,314 INFO [capacityManagement] start correct usage
+
+2025-02-25 13:33:52,318 INFO [capacityManagement] end correct usage, cost: 0.003065s
+
+2025-02-25 13:33:53,417 WARN clearHistoryConfig get scheduled
+
+2025-02-25 13:33:53,417 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 13:33:53,418 WARN clearConfigHistory, getBeforeStamp:2025-01-26 13:33:53.0, pageSize:1000
+
+2025-02-25 13:33:53,420 WARN history config cleaner successfully
+
+2025-02-25 13:53:52,906 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s309ms).
+
+2025-02-25 13:58:52,196 INFO [capacityManagement] start correct usage
+
+2025-02-25 13:58:52,200 INFO [capacityManagement] end correct usage, cost: 0.0024385s
+
+2025-02-25 13:58:53,297 WARN clearHistoryConfig get scheduled
+
+2025-02-25 13:58:53,298 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 13:58:53,298 WARN clearConfigHistory, getBeforeStamp:2025-01-26 13:58:53.0, pageSize:1000
+
+2025-02-25 13:58:53,302 WARN history config cleaner successfully
+
+2025-02-25 14:08:52,197 INFO [capacityManagement] start correct usage
+
+2025-02-25 14:08:52,201 INFO [capacityManagement] end correct usage, cost: 0.003139167s
+
+2025-02-25 14:08:53,303 WARN clearHistoryConfig get scheduled
+
+2025-02-25 14:08:53,303 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 14:08:53,304 WARN clearConfigHistory, getBeforeStamp:2025-01-26 14:08:53.0, pageSize:1000
+
+2025-02-25 14:08:53,306 WARN history config cleaner successfully
+
+2025-02-25 14:18:52,226 INFO [capacityManagement] start correct usage
+
+2025-02-25 14:18:52,230 INFO [capacityManagement] end correct usage, cost: 0.002564167s
+
+2025-02-25 14:18:53,335 WARN clearHistoryConfig get scheduled
+
+2025-02-25 14:18:53,335 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 14:18:53,336 WARN clearConfigHistory, getBeforeStamp:2025-01-26 14:18:53.0, pageSize:1000
+
+2025-02-25 14:18:53,339 WARN history config cleaner successfully
+
+2025-02-25 14:28:52,229 INFO [capacityManagement] start correct usage
+
+2025-02-25 14:28:52,232 INFO [capacityManagement] end correct usage, cost: 0.002323541s
+
+2025-02-25 14:28:53,346 WARN clearHistoryConfig get scheduled
+
+2025-02-25 14:28:53,346 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 14:28:53,346 WARN clearConfigHistory, getBeforeStamp:2025-01-26 14:28:53.0, pageSize:1000
+
+2025-02-25 14:28:53,348 WARN history config cleaner successfully
+
+2025-02-25 14:38:52,238 INFO [capacityManagement] start correct usage
+
+2025-02-25 14:38:52,241 INFO [capacityManagement] end correct usage, cost: 0.001929333s
+
+2025-02-25 14:38:53,352 WARN clearHistoryConfig get scheduled
+
+2025-02-25 14:38:53,352 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 14:38:53,352 WARN clearConfigHistory, getBeforeStamp:2025-01-26 14:38:53.0, pageSize:1000
+
+2025-02-25 14:38:53,355 WARN history config cleaner successfully
+
+2025-02-25 14:48:52,240 INFO [capacityManagement] start correct usage
+
+2025-02-25 14:48:52,243 INFO [capacityManagement] end correct usage, cost: 0.002156875s
+
+2025-02-25 14:48:53,361 WARN clearHistoryConfig get scheduled
+
+2025-02-25 14:48:53,361 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 14:48:53,361 WARN clearConfigHistory, getBeforeStamp:2025-01-26 14:48:53.0, pageSize:1000
+
+2025-02-25 14:48:53,363 WARN history config cleaner successfully
+
+2025-02-25 14:55:48,648 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s898ms).
+
+2025-02-25 14:59:18,097 INFO [capacityManagement] start correct usage
+
+2025-02-25 14:59:18,100 INFO [capacityManagement] end correct usage, cost: 0.002062958s
+
+2025-02-25 14:59:19,209 WARN clearHistoryConfig get scheduled
+
+2025-02-25 14:59:19,209 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 14:59:19,210 WARN clearConfigHistory, getBeforeStamp:2025-01-26 14:59:19.0, pageSize:1000
+
+2025-02-25 14:59:19,213 WARN history config cleaner successfully
+
+2025-02-25 15:09:18,105 INFO [capacityManagement] start correct usage
+
+2025-02-25 15:09:18,109 INFO [capacityManagement] end correct usage, cost: 0.002991125s
+
+2025-02-25 15:09:19,218 WARN clearHistoryConfig get scheduled
+
+2025-02-25 15:09:19,219 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 15:09:19,219 WARN clearConfigHistory, getBeforeStamp:2025-01-26 15:09:19.0, pageSize:1000
+
+2025-02-25 15:09:19,221 WARN history config cleaner successfully
+
+2025-02-25 15:19:18,118 INFO [capacityManagement] start correct usage
+
+2025-02-25 15:19:18,121 INFO [capacityManagement] end correct usage, cost: 0.001616083s
+
+2025-02-25 15:19:19,235 WARN clearHistoryConfig get scheduled
+
+2025-02-25 15:19:19,236 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 15:19:19,236 WARN clearConfigHistory, getBeforeStamp:2025-01-26 15:19:19.0, pageSize:1000
+
+2025-02-25 15:19:19,239 WARN history config cleaner successfully
+
+2025-02-25 15:29:18,133 INFO [capacityManagement] start correct usage
+
+2025-02-25 15:29:18,136 INFO [capacityManagement] end correct usage, cost: 0.001808958s
+
+2025-02-25 15:29:19,246 WARN clearHistoryConfig get scheduled
+
+2025-02-25 15:29:19,246 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 15:29:19,247 WARN clearConfigHistory, getBeforeStamp:2025-01-26 15:29:19.0, pageSize:1000
+
+2025-02-25 15:29:19,249 WARN history config cleaner successfully
+
+2025-02-25 15:39:18,149 INFO [capacityManagement] start correct usage
+
+2025-02-25 15:39:18,152 INFO [capacityManagement] end correct usage, cost: 0.002374s
+
+2025-02-25 15:39:19,262 WARN clearHistoryConfig get scheduled
+
+2025-02-25 15:39:19,262 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 15:39:19,263 WARN clearConfigHistory, getBeforeStamp:2025-01-26 15:39:19.0, pageSize:1000
+
+2025-02-25 15:39:19,265 WARN history config cleaner successfully
+
+2025-02-25 15:49:18,165 INFO [capacityManagement] start correct usage
+
+2025-02-25 15:49:18,168 INFO [capacityManagement] end correct usage, cost: 0.002187166s
+
+2025-02-25 15:49:19,279 WARN clearHistoryConfig get scheduled
+
+2025-02-25 15:49:19,279 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 15:49:19,279 WARN clearConfigHistory, getBeforeStamp:2025-01-26 15:49:19.0, pageSize:1000
+
+2025-02-25 15:49:19,283 WARN history config cleaner successfully
+
+2025-02-25 15:59:18,283 INFO [capacityManagement] start correct usage
+
+2025-02-25 15:59:18,286 INFO [capacityManagement] end correct usage, cost: 0.002142916s
+
+2025-02-25 15:59:19,397 WARN clearHistoryConfig get scheduled
+
+2025-02-25 15:59:19,397 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 15:59:19,397 WARN clearConfigHistory, getBeforeStamp:2025-01-26 15:59:19.0, pageSize:1000
+
+2025-02-25 15:59:19,399 WARN history config cleaner successfully
+
+2025-02-25 16:09:18,406 INFO [capacityManagement] start correct usage
+
+2025-02-25 16:09:18,409 INFO [capacityManagement] end correct usage, cost: 0.002099875s
+
+2025-02-25 16:09:19,513 WARN clearHistoryConfig get scheduled
+
+2025-02-25 16:09:19,513 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 16:09:19,513 WARN clearConfigHistory, getBeforeStamp:2025-01-26 16:09:19.0, pageSize:1000
+
+2025-02-25 16:09:19,517 WARN history config cleaner successfully
+
+2025-02-25 16:19:18,419 INFO [capacityManagement] start correct usage
+
+2025-02-25 16:19:18,422 INFO [capacityManagement] end correct usage, cost: 0.001820792s
+
+2025-02-25 16:19:19,529 WARN clearHistoryConfig get scheduled
+
+2025-02-25 16:19:19,529 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 16:19:19,529 WARN clearConfigHistory, getBeforeStamp:2025-01-26 16:19:19.0, pageSize:1000
+
+2025-02-25 16:19:19,531 WARN history config cleaner successfully
+
+2025-02-25 16:29:18,431 INFO [capacityManagement] start correct usage
+
+2025-02-25 16:29:18,435 INFO [capacityManagement] end correct usage, cost: 0.002157917s
+
+2025-02-25 16:29:19,543 WARN clearHistoryConfig get scheduled
+
+2025-02-25 16:29:19,543 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 16:29:19,544 WARN clearConfigHistory, getBeforeStamp:2025-01-26 16:29:19.0, pageSize:1000
+
+2025-02-25 16:29:19,547 WARN history config cleaner successfully
+
+2025-02-25 16:39:18,468 INFO [capacityManagement] start correct usage
+
+2025-02-25 16:39:18,471 INFO [capacityManagement] end correct usage, cost: 0.002332334s
+
+2025-02-25 16:39:19,581 WARN clearHistoryConfig get scheduled
+
+2025-02-25 16:39:19,581 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 16:39:19,582 WARN clearConfigHistory, getBeforeStamp:2025-01-26 16:39:19.0, pageSize:1000
+
+2025-02-25 16:39:19,584 WARN history config cleaner successfully
+
+2025-02-25 16:49:18,482 INFO [capacityManagement] start correct usage
+
+2025-02-25 16:49:18,486 INFO [capacityManagement] end correct usage, cost: 0.002405833s
+
+2025-02-25 16:49:19,590 WARN clearHistoryConfig get scheduled
+
+2025-02-25 16:49:19,591 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 16:49:19,592 WARN clearConfigHistory, getBeforeStamp:2025-01-26 16:49:19.0, pageSize:1000
+
+2025-02-25 16:49:19,599 WARN history config cleaner successfully
+
+2025-02-25 16:59:18,492 INFO [capacityManagement] start correct usage
+
+2025-02-25 16:59:18,497 INFO [capacityManagement] end correct usage, cost: 0.002887167s
+
+2025-02-25 16:59:19,604 WARN clearHistoryConfig get scheduled
+
+2025-02-25 16:59:19,604 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 16:59:19,604 WARN clearConfigHistory, getBeforeStamp:2025-01-26 16:59:19.0, pageSize:1000
+
+2025-02-25 16:59:19,605 WARN history config cleaner successfully
+
+2025-02-25 17:02:24,629 WARN Stream Error
+
+io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2Exception$StreamException: Cannot create stream 221 greater than Last-Stream-ID 219 from GOAWAY.
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2Exception.streamError(Http2Exception.java:153)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2Connection$DefaultEndpoint.checkNewStreamAllowed(DefaultHttp2Connection.java:877)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2Connection$DefaultEndpoint.createStream(DefaultHttp2Connection.java:751)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2Connection$DefaultEndpoint.createStream(DefaultHttp2Connection.java:671)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2ConnectionDecoder$FrameReadListener.onHeadersRead(DefaultHttp2ConnectionDecoder.java:347)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2InboundFrameLogger$1.onHeadersRead(Http2InboundFrameLogger.java:65)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2FrameReader$1.processFragment(DefaultHttp2FrameReader.java:450)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2FrameReader.readHeadersFrame(DefaultHttp2FrameReader.java:457)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2FrameReader.processPayloadState(DefaultHttp2FrameReader.java:253)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2FrameReader.readFrame(DefaultHttp2FrameReader.java:159)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2InboundFrameLogger.readFrame(Http2InboundFrameLogger.java:41)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2ConnectionDecoder.decodeFrame(DefaultHttp2ConnectionDecoder.java:173)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2ConnectionHandler$FrameDecoder.decode(Http2ConnectionHandler.java:393)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2ConnectionHandler.decode(Http2ConnectionHandler.java:453)
+	at io.grpc.netty.shaded.io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:529)
+	at io.grpc.netty.shaded.io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:468)
+	at io.grpc.netty.shaded.io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.grpc.netty.shaded.io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.grpc.netty.shaded.io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.grpc.netty.shaded.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.grpc.netty.shaded.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-25 17:02:24,629 WARN Stream Error
+
+io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2Exception$StreamException: Cannot create stream 223 greater than Last-Stream-ID 221 from GOAWAY.
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2Exception.streamError(Http2Exception.java:153)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2Connection$DefaultEndpoint.checkNewStreamAllowed(DefaultHttp2Connection.java:877)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2Connection$DefaultEndpoint.createStream(DefaultHttp2Connection.java:751)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2Connection$DefaultEndpoint.createStream(DefaultHttp2Connection.java:671)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2ConnectionDecoder$FrameReadListener.onHeadersRead(DefaultHttp2ConnectionDecoder.java:347)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2InboundFrameLogger$1.onHeadersRead(Http2InboundFrameLogger.java:65)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2FrameReader$1.processFragment(DefaultHttp2FrameReader.java:450)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2FrameReader.readHeadersFrame(DefaultHttp2FrameReader.java:457)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2FrameReader.processPayloadState(DefaultHttp2FrameReader.java:253)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2FrameReader.readFrame(DefaultHttp2FrameReader.java:159)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2InboundFrameLogger.readFrame(Http2InboundFrameLogger.java:41)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.DefaultHttp2ConnectionDecoder.decodeFrame(DefaultHttp2ConnectionDecoder.java:173)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2ConnectionHandler$FrameDecoder.decode(Http2ConnectionHandler.java:393)
+	at io.grpc.netty.shaded.io.netty.handler.codec.http2.Http2ConnectionHandler.decode(Http2ConnectionHandler.java:453)
+	at io.grpc.netty.shaded.io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:529)
+	at io.grpc.netty.shaded.io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:468)
+	at io.grpc.netty.shaded.io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:290)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412)
+	at io.grpc.netty.shaded.io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440)
+	at io.grpc.netty.shaded.io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420)
+	at io.grpc.netty.shaded.io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.grpc.netty.shaded.io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.grpc.netty.shaded.io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.grpc.netty.shaded.io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.grpc.netty.shaded.io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025-02-25 17:02:24,655 INFO [id: 0x0c30f890, L:/127.0.0.1:9848 ! R:/127.0.0.1:59002] ignoring DATA frame for stream 223. Stream sent after GOAWAY sent
+
+2025-02-25 17:09:18,503 INFO [capacityManagement] start correct usage
+
+2025-02-25 17:09:18,507 INFO [capacityManagement] end correct usage, cost: 0.002824916s
+
+2025-02-25 17:09:19,608 WARN clearHistoryConfig get scheduled
+
+2025-02-25 17:09:19,609 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 17:09:19,610 WARN clearConfigHistory, getBeforeStamp:2025-01-26 17:09:19.0, pageSize:1000
+
+2025-02-25 17:09:19,614 WARN history config cleaner successfully
+
+2025-02-25 17:19:18,511 INFO [capacityManagement] start correct usage
+
+2025-02-25 17:19:18,514 INFO [capacityManagement] end correct usage, cost: 0.001791708s
+
+2025-02-25 17:19:19,619 WARN clearHistoryConfig get scheduled
+
+2025-02-25 17:19:19,619 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 17:19:19,620 WARN clearConfigHistory, getBeforeStamp:2025-01-26 17:19:19.0, pageSize:1000
+
+2025-02-25 17:19:19,623 WARN history config cleaner successfully
+
+2025-02-25 17:29:18,517 INFO [capacityManagement] start correct usage
+
+2025-02-25 17:29:18,521 INFO [capacityManagement] end correct usage, cost: 0.002867708s
+
+2025-02-25 17:29:19,629 WARN clearHistoryConfig get scheduled
+
+2025-02-25 17:29:19,629 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 17:29:19,630 WARN clearConfigHistory, getBeforeStamp:2025-01-26 17:29:19.0, pageSize:1000
+
+2025-02-25 17:29:19,632 WARN history config cleaner successfully
+
+2025-02-25 17:39:18,491 INFO [capacityManagement] start correct usage
+
+2025-02-25 17:39:18,497 INFO [capacityManagement] end correct usage, cost: 0.005033708s
+
+2025-02-25 17:39:19,602 WARN clearHistoryConfig get scheduled
+
+2025-02-25 17:39:19,603 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 17:39:19,603 WARN clearConfigHistory, getBeforeStamp:2025-01-26 17:39:19.0, pageSize:1000
+
+2025-02-25 17:39:19,606 WARN history config cleaner successfully
+
+2025-02-25 17:49:18,502 INFO [capacityManagement] start correct usage
+
+2025-02-25 17:49:18,506 INFO [capacityManagement] end correct usage, cost: 0.003460625s
+
+2025-02-25 17:49:19,610 WARN clearHistoryConfig get scheduled
+
+2025-02-25 17:49:19,611 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 17:49:19,611 WARN clearConfigHistory, getBeforeStamp:2025-01-26 17:49:19.0, pageSize:1000
+
+2025-02-25 17:49:19,614 WARN history config cleaner successfully
+
+2025-02-25 17:52:41,411 INFO Get ConfigCommon config from env, ConfigCommonConfig{maxPushRetryTimes=50, derbyOpsEnabled=false}
+
+2025-02-25 17:59:18,510 INFO [capacityManagement] start correct usage
+
+2025-02-25 17:59:18,513 INFO [capacityManagement] end correct usage, cost: 0.002078208s
+
+2025-02-25 17:59:19,613 WARN clearHistoryConfig get scheduled
+
+2025-02-25 17:59:19,613 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 17:59:19,614 WARN clearConfigHistory, getBeforeStamp:2025-01-26 17:59:19.0, pageSize:1000
+
+2025-02-25 17:59:19,616 WARN history config cleaner successfully
+
+2025-02-25 18:09:18,584 INFO [capacityManagement] start correct usage
+
+2025-02-25 18:09:18,587 INFO [capacityManagement] end correct usage, cost: 0.001940583s
+
+2025-02-25 18:09:19,683 WARN clearHistoryConfig get scheduled
+
+2025-02-25 18:09:19,683 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 18:09:19,683 WARN clearConfigHistory, getBeforeStamp:2025-01-26 18:09:19.0, pageSize:1000
+
+2025-02-25 18:09:19,685 WARN history config cleaner successfully
+
+2025-02-25 18:19:18,572 INFO [capacityManagement] start correct usage
+
+2025-02-25 18:19:18,575 INFO [capacityManagement] end correct usage, cost: 0.001506791s
+
+2025-02-25 18:19:19,670 WARN clearHistoryConfig get scheduled
+
+2025-02-25 18:19:19,670 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 18:19:19,672 WARN clearConfigHistory, getBeforeStamp:2025-01-26 18:19:19.0, pageSize:1000
+
+2025-02-25 18:19:19,675 WARN history config cleaner successfully
+
+2025-02-25 18:29:18,579 INFO [capacityManagement] start correct usage
+
+2025-02-25 18:29:18,583 INFO [capacityManagement] end correct usage, cost: 0.002567417s
+
+2025-02-25 18:29:19,682 WARN clearHistoryConfig get scheduled
+
+2025-02-25 18:29:19,683 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 18:29:19,684 WARN clearConfigHistory, getBeforeStamp:2025-01-26 18:29:19.0, pageSize:1000
+
+2025-02-25 18:29:19,686 WARN history config cleaner successfully
+
+2025-02-25 18:39:18,524 INFO [capacityManagement] start correct usage
+
+2025-02-25 18:39:18,527 INFO [capacityManagement] end correct usage, cost: 0.002003417s
+
+2025-02-25 18:39:19,628 WARN clearHistoryConfig get scheduled
+
+2025-02-25 18:39:19,629 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 18:39:19,629 WARN clearConfigHistory, getBeforeStamp:2025-01-26 18:39:19.0, pageSize:1000
+
+2025-02-25 18:39:19,631 WARN history config cleaner successfully
+
+2025-02-25 18:49:18,541 INFO [capacityManagement] start correct usage
+
+2025-02-25 18:49:18,545 INFO [capacityManagement] end correct usage, cost: 0.001895417s
+
+2025-02-25 18:49:19,645 WARN clearHistoryConfig get scheduled
+
+2025-02-25 18:49:19,645 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 18:49:19,646 WARN clearConfigHistory, getBeforeStamp:2025-01-26 18:49:19.0, pageSize:1000
+
+2025-02-25 18:49:19,649 WARN history config cleaner successfully
+
+2025-02-25 18:59:18,547 INFO [capacityManagement] start correct usage
+
+2025-02-25 18:59:18,549 INFO [capacityManagement] end correct usage, cost: 0.002085125s
+
+2025-02-25 18:59:19,648 WARN clearHistoryConfig get scheduled
+
+2025-02-25 18:59:19,648 WARN clearHistoryConfig is enable in current context, try to run cleaner
+
+2025-02-25 18:59:19,648 WARN clearConfigHistory, getBeforeStamp:2025-01-26 18:59:19.0, pageSize:1000
+
+2025-02-25 18:59:19,650 WARN history config cleaner successfully
+
+2025-02-25 19:04:34,337 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@197c3ab3 (Communications link failure
+
+The last packet successfully received from the server was 9,810 milliseconds ago. The last packet sent successfully to the server was 9,810 milliseconds ago.). Possibly consider using a shorter maxLifetime value.
+
+2025-02-25 19:04:34,338 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@29ecbb6f (Communications link failure
+
+The last packet successfully received from the server was 38,432 milliseconds ago. The last packet sent successfully to the server was 38,432 milliseconds ago.). Possibly consider using a shorter maxLifetime value.
+
+2025-02-25 19:04:47,492 INFO [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2025-02-25 19:04:47,493 INFO [ThreadPoolManager] Start destroying ThreadPool
+
+2025-02-25 19:04:47,492 INFO [NotifyCenter] Start destroying Publisher
+
+2025-02-25 19:04:47,492 WARN [WatchFileCenter] start close
+
+2025-02-25 19:04:47,493 INFO [HttpClientBeanHolder] Start destroying common HttpClient
+
+2025-02-25 19:04:47,493 WARN [WatchFileCenter] start to shutdown this watcher which is watch : /Users/wangwanli/nacos/conf
+
+2025-02-25 19:04:47,493 INFO [NotifyCenter] Completed destruction of Publisher
+
+2025-02-25 19:04:47,494 INFO [ConfigServer-HttpClientManager] Completed destruction of NacosRestTemplate
+
+2025-02-25 19:04:47,494 INFO [HttpClientBeanHolder] Completed destruction of HttpClient
+
+2025-02-25 19:04:47,494 WARN [WatchFileCenter] already closed
+

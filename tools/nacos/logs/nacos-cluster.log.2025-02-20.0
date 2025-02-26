@@ -1,0 +1,42 @@
+2025-02-20 16:57:30,862 INFO Current addressing mode selection : AddressServerMemberLookup
+
+2025-02-20 16:57:33,380 ERROR [serverlist] exception, error : caused: Read timed out;
+
+2025-02-20 16:57:35,884 ERROR [serverlist] exception, error : caused: Read timed out;
+
+2025-02-20 16:57:36,024 ERROR [serverlist] exception, error : caused: Server returned HTTP response code: 502 for URL: http://jmenv.tbsite.net:8080/nacos/serverlist;caused: Server returned HTTP response code: 502 for URL: http://jmenv.tbsite.net:8080/nacos/serverlist;
+
+2025-02-20 16:57:36,028 ERROR [serverlist] exception, error : caused: Server returned HTTP response code: 502 for URL: http://jmenv.tbsite.net:8080/nacos/serverlist;caused: Server returned HTTP response code: 502 for URL: http://jmenv.tbsite.net:8080/nacos/serverlist;
+
+2025-02-20 16:57:36,032 ERROR [serverlist] exception, error : caused: Server returned HTTP response code: 502 for URL: http://jmenv.tbsite.net:8080/nacos/serverlist;caused: Server returned HTTP response code: 502 for URL: http://jmenv.tbsite.net:8080/nacos/serverlist;
+
+2025-02-20 17:17:04,102 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2025-02-20 17:17:04,565 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
+
+2025-02-20 17:17:06,746 INFO This node is ready to provide external services
+
+2025-02-20 17:45:59,417 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2025-02-20 17:45:59,933 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
+
+2025-02-20 17:46:02,110 INFO This node is ready to provide external services
+
+2025-02-20 17:58:57,486 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2025-02-20 17:58:57,916 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
+
+2025-02-20 17:59:00,044 INFO This node is ready to provide external services
+
+2025-02-20 19:34:57,781 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2025-02-20 19:34:58,302 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
+
+2025-02-20 19:35:01,602 INFO This node is ready to provide external services
+
+2025-02-20 19:51:56,715 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2025-02-20 19:51:57,112 INFO [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
+
+2025-02-20 19:52:00,301 INFO This node is ready to provide external services
+

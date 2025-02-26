@@ -1,0 +1,122 @@
+2025-02-20 17:54:57,506 INFO [dump] add formal task. groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP
+
+2025-02-20 17:54:57,510 INFO [dump] process formal task. groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP
+
+2025-02-20 17:54:57,573 INFO [dump] md5 changed, save to disk cache ,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 17:54:57,582 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740045297493
+
+2025-02-20 17:59:44,969 INFO [dump] add formal task. groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP
+
+2025-02-20 17:59:45,008 INFO [dump] process formal task. groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP
+
+2025-02-20 17:59:45,044 INFO [dump] md5 changed, save to disk cache ,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 17:59:45,048 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740045585000
+
+2025-02-20 18:58:23,329 INFO [dump] add formal task. groupKey=Lock2-yaml+DEFAULT_GROUP
+
+2025-02-20 18:58:23,419 INFO [dump] process formal task. groupKey=Lock2-yaml+DEFAULT_GROUP
+
+2025-02-20 18:58:23,428 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2-yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 18:58:23,429 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2-yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740049103000
+
+2025-02-20 18:58:29,379 INFO [dump] add formal task. groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP
+
+2025-02-20 18:58:29,421 INFO [dump] process formal task. groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP
+
+2025-02-20 18:58:29,422 INFO [dump] remove  local disk cache,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP 
+
+2025-02-20 18:58:29,423 INFO [dump] remove  local jvm cache,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP 
+
+2025-02-20 19:01:35,729 INFO [dump] add formal task. groupKey=Lock2-dev-yaml+DEFAULT_GROUP
+
+2025-02-20 19:01:35,751 INFO [dump] process formal task. groupKey=Lock2-dev-yaml+DEFAULT_GROUP
+
+2025-02-20 19:01:35,753 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2-dev-yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 19:01:35,754 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2-dev-yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740049296000
+
+2025-02-20 19:01:40,610 INFO [dump] add formal task. groupKey=Lock2-yaml+DEFAULT_GROUP
+
+2025-02-20 19:01:40,623 INFO [dump] process formal task. groupKey=Lock2-yaml+DEFAULT_GROUP
+
+2025-02-20 19:01:40,624 INFO [dump] remove  local disk cache,groupKey=Lock2-yaml+DEFAULT_GROUP 
+
+2025-02-20 19:01:40,625 INFO [dump] remove  local jvm cache,groupKey=Lock2-yaml+DEFAULT_GROUP 
+
+2025-02-20 19:01:53,457 INFO [dump] add formal task. groupKey=Lock2.yaml+DEFAULT_GROUP
+
+2025-02-20 19:01:53,497 INFO [dump] process formal task. groupKey=Lock2.yaml+DEFAULT_GROUP
+
+2025-02-20 19:01:53,501 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2.yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 19:01:53,501 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2.yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740049313000
+
+2025-02-20 19:34:58,427 INFO [dump] md5 changed, save to disk cache ,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 19:34:58,430 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740045297493
+
+2025-02-20 19:34:58,431 INFO [dump-all-ok] cloudalibaba-sentinel-service+DEFAULT_GROUP, 1740045297493, length=4,md5UTF8=a21cafb4c405e6997671a02e578b9b1e
+
+2025-02-20 19:51:57,227 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2-dev-yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 19:51:57,227 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2.yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 19:51:57,230 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2-dev-yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740049296000
+
+2025-02-20 19:51:57,230 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2.yaml+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740049313000
+
+2025-02-20 19:51:57,230 INFO [dump-all-ok] Lock2.yaml+DEFAULT_GROUP, 1740049313000, length=4,md5UTF8=a21cafb4c405e6997671a02e578b9b1e
+
+2025-02-20 19:51:57,230 INFO [dump-all-ok] Lock2-dev-yaml+DEFAULT_GROUP, 1740049296000, length=4,md5UTF8=a21cafb4c405e6997671a02e578b9b1e
+
+2025-02-20 19:54:00,963 INFO [dump] add formal task. groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP
+
+2025-02-20 19:54:00,988 INFO [dump] process formal task. groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP
+
+2025-02-20 19:54:00,990 INFO [dump] md5 changed, save to disk cache ,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 19:54:00,991 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740052441000
+
+2025-02-20 20:27:56,638 INFO [dump] add formal task. groupKey=Lock2-dev-yaml+DEFAULT_GROUP
+
+2025-02-20 20:27:56,647 INFO [dump] process formal task. groupKey=Lock2-dev-yaml+DEFAULT_GROUP
+
+2025-02-20 20:27:56,648 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2-dev-yaml+DEFAULT_GROUP, newMd5=e958d9f99f4eddc376dda42ba0201148,oldMd5=a21cafb4c405e6997671a02e578b9b1e
+
+2025-02-20 20:27:56,649 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2-dev-yaml+DEFAULT_GROUP, newMd5=e958d9f99f4eddc376dda42ba0201148,oldMd5=a21cafb4c405e6997671a02e578b9b1e,lastModifiedTs=1740054477000
+
+2025-02-20 20:36:12,666 INFO [dump] add formal task. groupKey=Lock2-dev-yaml+DEFAULT_GROUP
+
+2025-02-20 20:36:12,702 INFO [dump] process formal task. groupKey=Lock2-dev-yaml+DEFAULT_GROUP
+
+2025-02-20 20:36:12,703 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2-dev-yaml+DEFAULT_GROUP, newMd5=efecf3d6fd993012aefb1d9bfe3b6d41,oldMd5=e958d9f99f4eddc376dda42ba0201148
+
+2025-02-20 20:36:12,705 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2-dev-yaml+DEFAULT_GROUP, newMd5=efecf3d6fd993012aefb1d9bfe3b6d41,oldMd5=e958d9f99f4eddc376dda42ba0201148,lastModifiedTs=1740054973000
+
+2025-02-20 21:25:46,757 INFO [dump] add formal task. groupKey=Lock2+DEFAULT_GROUP
+
+2025-02-20 21:25:46,845 INFO [dump] process formal task. groupKey=Lock2+DEFAULT_GROUP
+
+2025-02-20 21:25:46,846 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=
+
+2025-02-20 21:25:46,847 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2+DEFAULT_GROUP, newMd5=a21cafb4c405e6997671a02e578b9b1e,oldMd5=,lastModifiedTs=1740057947000
+
+2025-02-20 21:26:39,294 INFO [dump] add formal task. groupKey=Lock2+DEFAULT_GROUP
+
+2025-02-20 21:26:39,395 INFO [dump] process formal task. groupKey=Lock2+DEFAULT_GROUP
+
+2025-02-20 21:26:39,396 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2+DEFAULT_GROUP, newMd5=3105d1b7002f2f951b0338df85cb079a,oldMd5=a21cafb4c405e6997671a02e578b9b1e
+
+2025-02-20 21:26:39,397 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2+DEFAULT_GROUP, newMd5=3105d1b7002f2f951b0338df85cb079a,oldMd5=a21cafb4c405e6997671a02e578b9b1e,lastModifiedTs=1740057999000
+
+2025-02-20 21:27:17,643 INFO [dump] add formal task. groupKey=Lock2+DEFAULT_GROUP+sentinal
+
+2025-02-20 21:27:17,728 INFO [dump] process formal task. groupKey=Lock2+DEFAULT_GROUP+sentinal
+
+2025-02-20 21:27:17,730 INFO [dump] md5 changed, save to disk cache ,groupKey=Lock2+DEFAULT_GROUP+sentinal, newMd5=3105d1b7002f2f951b0338df85cb079a,oldMd5=
+
+2025-02-20 21:27:17,733 INFO [dump] md5 changed, update md5 and timestamp in jvm cache ,groupKey=Lock2+DEFAULT_GROUP+sentinal, newMd5=3105d1b7002f2f951b0338df85cb079a,oldMd5=,lastModifiedTs=1740058038000
+

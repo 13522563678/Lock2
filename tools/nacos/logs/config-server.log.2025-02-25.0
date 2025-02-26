@@ -1,0 +1,58 @@
+2025-02-25 11:53:49,604 INFO notifyConnectTimeout:100
+
+2025-02-25 11:53:49,605 INFO notifySocketTimeout:200
+
+2025-02-25 11:53:49,605 INFO isHealthCheck:true
+
+2025-02-25 11:53:49,605 INFO maxHealthCheckFailCount:12
+
+2025-02-25 11:53:49,605 INFO maxContent:10485760
+
+2025-02-25 11:53:51,390 INFO All dump page size is set to 50 according to mem limit 512 MB
+
+2025-02-25 11:53:51,403 WARN DumpService start
+
+2025-02-25 11:53:51,403 INFO start clear all config-info.
+
+2025-02-25 11:53:51,411 INFO clear all config-info success.
+
+2025-02-25 11:53:51,413 INFO clear all config-info-tenant success.
+
+2025-02-25 11:53:51,417 INFO start dump all config-info...
+
+2025-02-25 11:53:51,424 INFO [all-dump] submit all task for 9 / 9, dbTime=7,diskTime=0
+
+2025-02-25 11:53:51,424 INFO [all-dump] wait 1 dump tasks to be finished
+
+2025-02-25 11:53:52,430 INFO success to  dump all config-info。
+
+2025-02-25 11:53:52,432 INFO start clear all config-info-gray.
+
+2025-02-25 11:53:52,432 INFO clear all config-info-gray success.
+
+2025-02-25 11:53:52,432 INFO clear all config-info-gray-tenant success.
+
+2025-02-25 12:01:50,209 WARN Get remote info from 192.168.5.5:8848 with exception: Read timed out
+
+2025-02-25 12:52:53,289 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 13:03:53,842 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 13:14:39,793 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 17:07:44,047 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 17:13:49,329 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 17:42:30,326 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 17:50:11,228 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 17:53:41,557 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 17:54:07,634 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 18:35:19,063 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+
+2025-02-25 18:40:50,406 WARN Get remote info from 192.168.5.5:8848 with exception: Connection refused
+

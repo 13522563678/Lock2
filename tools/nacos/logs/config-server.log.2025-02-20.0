@@ -1,0 +1,178 @@
+2025-02-20 16:57:29,426 INFO notifyConnectTimeout:100
+
+2025-02-20 16:57:29,427 INFO notifySocketTimeout:200
+
+2025-02-20 16:57:29,427 INFO isHealthCheck:true
+
+2025-02-20 16:57:29,427 INFO maxHealthCheckFailCount:12
+
+2025-02-20 16:57:29,427 INFO maxContent:10485760
+
+2025-02-20 17:17:02,802 INFO notifyConnectTimeout:100
+
+2025-02-20 17:17:02,803 INFO notifySocketTimeout:200
+
+2025-02-20 17:17:02,803 INFO isHealthCheck:true
+
+2025-02-20 17:17:02,803 INFO maxHealthCheckFailCount:12
+
+2025-02-20 17:17:02,803 INFO maxContent:10485760
+
+2025-02-20 17:17:04,634 INFO All dump page size is set to 50 according to mem limit 512 MB
+
+2025-02-20 17:17:04,635 WARN DumpService start
+
+2025-02-20 17:17:04,635 INFO start clear all config-info.
+
+2025-02-20 17:17:04,635 INFO clear all config-info success.
+
+2025-02-20 17:17:04,635 INFO clear all config-info-tenant success.
+
+2025-02-20 17:17:04,660 INFO start dump all config-info...
+
+2025-02-20 17:17:04,660 INFO success to  dump all config-info。
+
+2025-02-20 17:17:04,660 INFO start clear all config-info-gray.
+
+2025-02-20 17:17:04,660 INFO clear all config-info-gray success.
+
+2025-02-20 17:17:04,660 INFO clear all config-info-gray-tenant success.
+
+2025-02-20 17:45:58,115 INFO notifyConnectTimeout:100
+
+2025-02-20 17:45:58,116 INFO notifySocketTimeout:200
+
+2025-02-20 17:45:58,116 INFO isHealthCheck:true
+
+2025-02-20 17:45:58,116 INFO maxHealthCheckFailCount:12
+
+2025-02-20 17:45:58,116 INFO maxContent:10485760
+
+2025-02-20 17:45:59,997 INFO All dump page size is set to 50 according to mem limit 512 MB
+
+2025-02-20 17:45:59,998 WARN DumpService start
+
+2025-02-20 17:45:59,999 INFO start clear all config-info.
+
+2025-02-20 17:45:59,999 INFO clear all config-info success.
+
+2025-02-20 17:45:59,999 INFO clear all config-info-tenant success.
+
+2025-02-20 17:46:00,023 INFO start dump all config-info...
+
+2025-02-20 17:46:00,024 INFO success to  dump all config-info。
+
+2025-02-20 17:46:00,024 INFO start clear all config-info-gray.
+
+2025-02-20 17:46:00,024 INFO clear all config-info-gray success.
+
+2025-02-20 17:46:00,024 INFO clear all config-info-gray-tenant success.
+
+2025-02-20 17:58:56,155 INFO notifyConnectTimeout:100
+
+2025-02-20 17:58:56,156 INFO notifySocketTimeout:200
+
+2025-02-20 17:58:56,156 INFO isHealthCheck:true
+
+2025-02-20 17:58:56,156 INFO maxHealthCheckFailCount:12
+
+2025-02-20 17:58:56,156 INFO maxContent:10485760
+
+2025-02-20 17:58:57,994 INFO All dump page size is set to 50 according to mem limit 512 MB
+
+2025-02-20 17:58:58,007 WARN DumpService start
+
+2025-02-20 17:58:58,007 INFO start clear all config-info.
+
+2025-02-20 17:58:58,015 INFO clear all config-info success.
+
+2025-02-20 17:58:58,015 INFO clear all config-info-tenant success.
+
+2025-02-20 17:58:58,019 INFO start dump all config-info...
+
+2025-02-20 17:58:58,019 INFO success to  dump all config-info。
+
+2025-02-20 17:58:58,019 INFO start clear all config-info-gray.
+
+2025-02-20 17:58:58,019 INFO clear all config-info-gray success.
+
+2025-02-20 17:58:58,020 INFO clear all config-info-gray-tenant success.
+
+2025-02-20 18:56:40,640 WARN Get remote info from 192.168.5.5:8848 with exception: Read timed out
+
+2025-02-20 19:34:56,503 INFO notifyConnectTimeout:100
+
+2025-02-20 19:34:56,504 INFO notifySocketTimeout:200
+
+2025-02-20 19:34:56,504 INFO isHealthCheck:true
+
+2025-02-20 19:34:56,504 INFO maxHealthCheckFailCount:12
+
+2025-02-20 19:34:56,504 INFO maxContent:10485760
+
+2025-02-20 19:34:58,367 INFO All dump page size is set to 50 according to mem limit 512 MB
+
+2025-02-20 19:34:58,367 WARN DumpService start
+
+2025-02-20 19:34:58,367 INFO start clear all config-info.
+
+2025-02-20 19:34:58,378 INFO clear all config-info success.
+
+2025-02-20 19:34:58,378 INFO clear all config-info-tenant success.
+
+2025-02-20 19:34:58,404 INFO start dump all config-info...
+
+2025-02-20 19:34:58,417 INFO [all-dump] submit all task for 866610556311719936 / 866610556311719936, dbTime=13,diskTime=0
+
+2025-02-20 19:34:58,417 INFO [all-dump] wait 1 dump tasks to be finished
+
+2025-02-20 19:34:59,423 INFO success to  dump all config-info。
+
+2025-02-20 19:34:59,423 INFO start clear all config-info-gray.
+
+2025-02-20 19:34:59,423 INFO clear all config-info-gray success.
+
+2025-02-20 19:34:59,424 INFO clear all config-info-gray-tenant success.
+
+2025-02-20 19:51:55,428 INFO notifyConnectTimeout:100
+
+2025-02-20 19:51:55,428 INFO notifySocketTimeout:200
+
+2025-02-20 19:51:55,429 INFO isHealthCheck:true
+
+2025-02-20 19:51:55,429 INFO maxHealthCheckFailCount:12
+
+2025-02-20 19:51:55,429 INFO maxContent:10485760
+
+2025-02-20 19:51:57,187 INFO All dump page size is set to 50 according to mem limit 512 MB
+
+2025-02-20 19:51:57,195 WARN DumpService start
+
+2025-02-20 19:51:57,196 INFO start clear all config-info.
+
+2025-02-20 19:51:57,204 INFO clear all config-info success.
+
+2025-02-20 19:51:57,204 INFO clear all config-info-tenant success.
+
+2025-02-20 19:51:57,208 INFO start dump all config-info...
+
+2025-02-20 19:51:57,217 INFO [all-dump] submit all task for 4 / 4, dbTime=8,diskTime=1
+
+2025-02-20 19:51:57,217 INFO [all-dump] wait 2 dump tasks to be finished
+
+2025-02-20 19:51:58,222 INFO success to  dump all config-info。
+
+2025-02-20 19:51:58,222 INFO start clear all config-info-gray.
+
+2025-02-20 19:51:58,222 INFO clear all config-info-gray success.
+
+2025-02-20 19:51:58,222 INFO clear all config-info-gray-tenant success.
+
+2025-02-20 20:27:15,585 WARN Get remote info from 192.168.5.5:8848 with exception: Read timed out
+
+2025-02-20 20:35:19,890 WARN Get remote info from 192.168.5.5:8848 with exception: Read timed out
+
+2025-02-20 21:25:51,702 WARN Get remote info from 192.168.5.5:8848 with exception: Read timed out
+
+2025-02-20 21:26:05,437 WARN Get remote info from 192.168.5.5:8848 with exception: Read timed out
+
