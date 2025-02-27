@@ -42,6 +42,7 @@ public class SentinelNacosDataSourceHandler implements SmartInitializingSingleto
                 WritableDataSource<List<FlowRule>> flowRuleWriter = new NacosWritableDataSource<>(nacosDataSourceProperties, JSON::toJSONString);
                 WritableDataSourceRegistry.registerFlowDataSource(flowRuleWriter);
                 break;
+
             case DEGRADE:
                 WritableDataSource<List<DegradeRule>> degradeRuleWriter = new NacosWritableDataSource<>(nacosDataSourceProperties, JSON::toJSONString);
                 WritableDataSourceRegistry.registerDegradeDataSource(degradeRuleWriter);
